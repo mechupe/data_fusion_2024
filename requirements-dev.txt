@@ -1,0 +1,6 @@
+-r requirements.txt
+pyarrow
+fastparquet
+plotly
+plotly-express
+ipywidgets
